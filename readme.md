@@ -19,7 +19,7 @@ bash
 
 3. Get your OpenAI API Key
     - Sign up for an openai and obtain your API key.
-    - Set the API key as an environment variable: OPENAI_API_KEY = your_api_key
+    - Set the API key as an environment variable: openai.api_key = your_api_key
 
 4. Run the Streamlit App
 
